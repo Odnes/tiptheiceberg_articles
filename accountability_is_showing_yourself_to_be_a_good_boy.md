@@ -43,7 +43,3 @@ So that's what I'll be trying over the next one hundred days, in the form of wak
 
 Join me, and it'll be a merry trip.
 
-* This is the syntax for inline sidenotes *
-Text continues here
-**Markdown syntax applies**
-
