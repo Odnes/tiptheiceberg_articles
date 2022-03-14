@@ -6,6 +6,7 @@ tags_list: applied
 type: Journal
 status: Finished
 
+
 Interleaving work on tasks that entail fast, obvious progress, with dealing with tasks that are menial, unrewarding yet necessary, is a scheme that's worked great for me which I haven't heard discussed. 
 
 I get easily bogged down and demoralized in dealing with minutiae whose resolution I deem necessary for my high standards to be met. Things just don't roll, one needs to have some fun doing whatever.
