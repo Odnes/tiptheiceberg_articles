@@ -1,7 +1,8 @@
 slug: interleave-minutiae-with-engaging-tasks
 title: Interleave minutiae with engaging tasks
 last_major_edit: 14/03/2022
-tags_list: applied
+tags_list: 100days
+           applied
            psychology
 type: Journal
 status: Finished
