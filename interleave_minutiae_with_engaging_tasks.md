@@ -11,7 +11,7 @@ Interleaving work on tasks that entail fast, obvious progress, with dealing with
 
 I get easily bogged down and demoralized in dealing with minutiae whose resolution I deem necessary for my high standards to be met. Things just don't roll, one needs to have some fun doing whatever.
 
-* As a cool guy said: *"Productivity is the joyous pursuit of execution."* Though "productivity" is one of those hip words for which I possess a visceral aversion. *
+* As a cool guy said: "Productivity is the joyous pursuit of execution." Though "productivity" is one of those hip words for which I possess a visceral aversion. *
 
 Changing this old habit of mine is key (one among a few I've yet to discover) to being able to toil sustainably.
 
