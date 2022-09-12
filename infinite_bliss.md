@@ -13,7 +13,10 @@ You can't expect to code well on 3 hours of sleep or when chronically sleep depr
 
 And you actually have to make this into a priority. The assumption of arguably your first deliberate social obligation, your job, stressed your body greatly. Now, this has got to stop. You've done nothing you'd recognise as valuable, assumed no noble responsibility, chased no bright star, and yet you've stressed and worn yourself down on pointless assumed obligations with no regard for the dear price you'll be paying for it.
 
-And that, of course, won't be your health, because everyone eventually becomes dead anyway, and we are all constantly dying in creative ways no matter how we conduct ourselves and regardless of whether we're yet breathing while at it. 
+And that, of course, won't be your health, because everyone eventually becomes dead anyway, and we are all constantly dying in creative ways no matter how we conduct ourselves and regardless of whether we're yet breathing while at it.
+
+* We seem to be made to suffer. It's our lot in life...
+-C3PO *
 
 Health is vanity, like everything that men have managed to name.
 
