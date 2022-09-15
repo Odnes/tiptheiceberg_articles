@@ -15,6 +15,7 @@ And you actually have to make this into a priority. The assumption of arguably y
 
 And that, of course, won't be your health, because everyone eventually becomes dead anyway, and we are all constantly dying in creative ways no matter how we conduct ourselves and regardless of whether we're yet breathing while at it.
 * We seem to be made to suffer. It's our lot in life... 
+
 -C3PO *
 Health is vanity, like everything that men have managed to name.
 
