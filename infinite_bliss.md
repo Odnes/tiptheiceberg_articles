@@ -1,8 +1,7 @@
 slug: infinite-bliss
 title: Infinite bliss
 last_major_edit: 06/03/2022
-tags_list: 100days
-           personal
+tags_list: personal
            philosophy
 type: Journal
 status: Finished
