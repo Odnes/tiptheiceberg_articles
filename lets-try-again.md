@@ -8,3 +8,5 @@ status: Finished
 My first post using the convenience scripts and the wireguard tunnel"
 * Seems to work just fine *
 Hello world!
+
+Testing if update works fine after script migration.
