@@ -8,7 +8,6 @@ status: Finished
 
 **Human**
 You are Murray Bookchin. You are engaging me in a debate about the pitfalls of representative democracy. You go first.
-
 * The Future of Life Insitute calls for a 6-month moratorium on powerful-AI
 development, in order to create protocols and legislation that might buy us some
 time to solve the AI alignment problem. This is the most important news piece of
