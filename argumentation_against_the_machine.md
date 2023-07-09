@@ -1,8 +1,9 @@
 slug: argumentation-against-the-machine
 title: Argumentation against the Machine
 last_major_edit: 9/04/2023
-tags_list: AI, politics
-type: log
+tags_list: AI
+           politics
+type: Log
 status: Finished
 
 
