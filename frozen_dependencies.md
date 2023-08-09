@@ -5,7 +5,7 @@ tags_list: software
 type: Journal
 status: Finished
 
-I have, on several ocassions, found myself tangled up in trying to resurrect projects built in languages and package managers / tooling I'm not familiar with.
+I have, on several ocassions, found myself tangled up trying to resurrect projects built in languages and package managers / tooling I'm not familiar with.
 
 One can ease oneself into development in a different stack by starting with
 small features, bug fixes etc. But outdated packages, frozen dependencies and
